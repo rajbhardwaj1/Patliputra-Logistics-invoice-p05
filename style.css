@@ -5,9 +5,8 @@
 table,td{
     border: 2px solid black;
     border-collapse: collapse;
-    margin-left: 20%;
-    margin-top: 4px;
     text-align: center;
+    margin: 5px auto;
 }
 #h{
     border-top: black;
